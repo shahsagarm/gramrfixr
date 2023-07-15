@@ -1,7 +1,7 @@
 # [GramrFixr POC](https://gramrfixr-poc.vercel.app)
 > Mini grammarly using ChatGPT.
 
-![](https://raw.githubusercontent.com/shahsagarm/gramrfixr/main/public/preview.git)
+![](https://raw.githubusercontent.com/shahsagarm/gramrfixr/main/public/preview.gif)
 
 ## Technologies
 This poc uses below open source libraries:
