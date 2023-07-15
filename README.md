@@ -4,7 +4,6 @@
 ![](https://raw.githubusercontent.com/shahsagarm/gramrfixr/main/public/preview.gif)
 
 ## Technologies
-This poc uses below open source libraries:
 
 - [Next.js](https://nextjs.org/)
 - [Tiptap Editor](https://tiptap.dev/)
