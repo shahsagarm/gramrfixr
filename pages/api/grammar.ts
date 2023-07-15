@@ -109,7 +109,7 @@ export default async function handler(
         for (const offset of offsets) {
           const newCorrectionObject: Correction = {
             original: correction.original,
-            corrected: correction.corrected,
+            corrected: correction.correction,
             offset: offset + 1,
             length: correction.original.length,
           };

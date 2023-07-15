@@ -74,7 +74,7 @@ const ContentEditor = () => {
 
       if (!response.ok) {
         const errorResponse = await response.json();
-        alert(errorResponse?.error);
+        alert(JSON.stringify(errorResponse?.error));
       } else {
         const data = await response.json();
 
